@@ -11,3 +11,10 @@ I'm currently a secondary school student studying in Hong Kong. Passionate about
 ![matthewtszdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewtszdev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewtszdev&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=matthewtszdev&theme=radical)
+
+<div align="center">
+
+⭐ **Star my repos if you find them useful!**  
+🔄 **Check back soon - I'm always building something new.**
+
+</div>
