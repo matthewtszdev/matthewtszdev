@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**matthewtszdev/matthewtszdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a secondary school student studying in Hong Kong. Passionate about **Java backend && frontend** and **APIs && libraries** development. I spends my free time developing Tools, APIs, libraries, etc. on Github.
 
-Here are some ideas to get you started:
+**Current Goals:**
+-  Go from JavaSE-1.8 to Java 21
+-  Learn C and C++ from scratch
+-  Creating developer tools and open-source libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matthewtszdev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewtszdev&layout=compact&theme=radical" />
+</p>
